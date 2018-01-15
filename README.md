@@ -1,2 +1,2 @@
 # CS290
-This repository is for the course CS 290.
+This is Jennifer Aldover's repository for the CS 290 Web Development course.
